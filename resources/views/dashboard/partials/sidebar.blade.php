@@ -6,7 +6,7 @@
     </button>
     <h1 class="navbar-brand navbar-brand-autodark mt-lg-2">
       <a href="{{ route('dashboard.home.index') }}">
-        Katalog Produk
+        Green Loop
       </a>
     </h1>
     <div class="navbar-nav flex-row d-lg-none">

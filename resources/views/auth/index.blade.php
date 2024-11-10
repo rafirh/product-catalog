@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <title>Login - Katalog Produk</title>
+  <title>Login - Green Loop</title>
   <!-- CSS files -->
   <link href="{{ asset('plugins/tabler/dist/css/tabler.min.css') }}" rel="stylesheet" />
   <link href="{{ asset('plugins/tabler/dist/css/tabler-flags.min.css') }}" rel="stylesheet" />
@@ -44,7 +44,7 @@
     <div class="container container-tight py-4">
       <div class="text-center mb-3 mt-4">
         <a class="fs-3 navbar-brand navbar-brand-autodark">
-          Katalog Produk
+          Green Loop
         </a>
       </div>
       <div class="card card-md">
@@ -106,7 +106,7 @@
         </div>
       </div>
       <div class="text-center text-muted mt-5">
-        © All rights reserved - Katalog Produk
+        © All rights reserved - Green Loop
       </div>
     </div>
   </div>
