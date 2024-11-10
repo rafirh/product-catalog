@@ -43,8 +43,8 @@
   <div class="page page-center">
     <div class="container container-tight py-4">
       <div class="text-center mb-3 mt-4">
-        <a class="fs-3 navbar-brand navbar-brand-autodark">
-          Green Loop
+        <a class="navbar-brand navbar-brand-autodark">
+          <img src="{{ asset('img/logo.png') }}" width="130" alt="">
         </a>
       </div>
       <div class="card card-md">
